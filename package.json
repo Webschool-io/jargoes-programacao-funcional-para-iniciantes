@@ -1,0 +1,23 @@
+{
+  "name": "jargoes-programacao-funcional-para-iniciantes",
+  "version": "1.0.0",
+  "description": "Jargões de prograação funcional para iniciantes!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "toc": "roadmarks"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:Webschool-io/jargoes-programacao-funcional-para-iniciantes.git"
+  },
+  "author": "Suissa",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/Webschool-io/jargoes-programacao-funcional-para-iniciantes/issues"
+  },
+  "homepage": "https://github.com/Webschool-io/jargoes-programacao-funcional-para-iniciantes#readme",
+  "devDependencies": {
+    "roadmarks": "^1.6.3"
+  }
+}
